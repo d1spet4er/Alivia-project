@@ -1,0 +1,96 @@
+.header {
+  padding-top: 17px;
+  padding-bottom: 17px;
+  border-bottom: 1px solid #d6d6d6;
+  height: 85px;
+}
+
+.header-row {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.header-nav {
+  font-weight: 500px;
+  color: #292929;
+  margin-left: 172px;
+}
+
+a + a {
+  padding-left: 70px;
+}
+
+.header-nav a:hover {
+  color: #01996d;
+}
+
+.header-nav a {
+  transition: color 0.2 ease;
+}
+
+.header-login {
+  margin-left: auto;
+}
+
+.header-login-a1 {
+  color: black;
+  margin-right: 35px;
+}
+
+.header-login-a2 {
+  color: #fff;
+  background-color: #01996d;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  border-radius: 4px;
+  font-size: 20px;
+}
+
+.button-big,
+a.button-big {
+  min-height: 65px;
+}
+
+.how-it-works {
+  padding-top: 169px;
+  padding-bottom: 51px;
+  padding-right: 232px;
+  padding-left: 275px;
+}
+
+.how-it-works-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.how-it-works-header-head {
+  min-width: 584px;
+}
+
+.how-it-works-header-title {
+  margin-bottom: -3px;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 157%;
+}
+
+.how-it-works-header-subtitle {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 50px;
+  line-height: 157%;
+  color: #01996d;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.how-it-works-header-content {
+  max-width: 671px;
+  margin-top: 55px;
+  margin-left: 136px;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 150%;
+}

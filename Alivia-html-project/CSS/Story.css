@@ -1,0 +1,47 @@
+.story {
+  padding: 220px 220px 185px 193px;
+  background-color: #245852;
+  color: white;
+}
+
+.story-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 31px;
+}
+.story-content {
+  width: 580px;
+}
+.story-heading {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 157%;
+  color: white;
+}
+
+.story-heading + * {
+}
+
+.story-text {
+  margin-top: 33px;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 39px;
+}
+
+.story-text + * {
+}
+
+.story-btn {
+  margin-top: 57px;
+}
+
+.story-video {
+  max-width: 895.47px;
+}
+
+.story-vidio-object {
+  border-radius: 15px;
+}

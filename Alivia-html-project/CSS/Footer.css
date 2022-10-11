@@ -1,0 +1,33 @@
+.footer {
+  background-color: #245852;
+}
+
+.footer_logo {
+  font-style: normal;
+  font-size: 40px;
+  line-height: 55px;
+  color: #fff;
+}
+.footer_links {
+  font-style: normal;
+  font-size: 25px;
+  line-height: 30px;
+  color: #fff;
+}
+.footer_container {
+  padding: 97px 1516px 142px 295px;
+}
+.Why_alivio {
+  padding-top: 60px;
+
+  width: 121px;
+}
+.Solutions {
+  padding-top: 60px;
+}
+.Community {
+  padding-top: 60px;
+}
+.Pricing {
+  padding-top: 60px;
+}
